@@ -24,7 +24,6 @@ class _loginState extends State<login> {
              // Colors.white,
             //Color(0XFFFFD6D6),
             //  Colors.white,
-            //  Colors.grey
             ],
             begin: FractionalOffset(0,0),
             end: FractionalOffset(1,1)
